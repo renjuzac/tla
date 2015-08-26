@@ -1,0 +1,1 @@
+(0..9).each {|x| puts " "*x+"The Flintstones Rock!"}
